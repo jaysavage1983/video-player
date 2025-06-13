@@ -4,7 +4,7 @@
  * description: A web component for playing videos with suport for YouTube, Vimeo and self-hosted video.
  * author: John F. Morton <john@johnfmorton.com> (https://johnfmorton.com)
  * repository: git+https://github.com/johnfmorton/video-player.git
- * build date: 2025-04-01T17:31:35.645Z
+ * build date: 2025-06-13T10:31:47.544Z
  */
 var __defProp = Object.defineProperty;
 var __defNormalProp = (obj, key, value) => key in obj ? __defProp(obj, key, { enumerable: true, configurable: true, writable: true, value }) : obj[key] = value;
